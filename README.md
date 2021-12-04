@@ -1,6 +1,7 @@
 # Repo de Frédéric Gaurat
 
-
+![image langage de programmation](./images/radowan-nakif-rehan-cYyqhdbJ9TI-unsplash.jpg "image langage de programmation")
+readme
 Bonjour et bienvenue sur cette page qui n'est là que pour présenter les services de mon activité de freelance à savoir:[Formation angular](https://www.eolem.com/formation-angular) et [Formation react](https://www.eolem.com/formation-react).
 
 
