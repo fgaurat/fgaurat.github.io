@@ -1,4 +1,4 @@
-# Frédéric Gaurat Développeur et Formateur 
+# Développement et Formation Python, Angular, Javascript et PHP
 
 
 ![image langage de programmation](./images/radowan-nakif-rehan-cYyqhdbJ9TI-unsplash.jpg "image langage de programmation")
